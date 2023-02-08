@@ -5,4 +5,5 @@ According to the premise (1), Gb on information can be reduced/compressed and ab
 Intelligence is not only about to have an answer, but to test the answer with actions, and actions have consequences on our environment. In this context, I could have a kind of the guru of the mountain (or, let's say, my personal chatGPT) capable to tell me what I want to know, but I need to test the correctness of the answer proving it in the real world. Then I can to change the statement "the right answer" for "the right action" where of course is obvious how the second is more general than the first.
 
 Then, in this project I offered a analysis methodology that finding attractors of information that seems to respect a fractal distribution and seems also to follow the Hollands schemata, this is, the genoma gene distribution in the really sence of finding do-not-care (*) places, abstract a big ammount of information such as a repertoire of 2^16 = 65'536 possible options in a few lines that represent simple rules capable to reproduce instantly the whole amount of information
-()
+[image 1](https://github.com/albertoHdzE/alt-dataSteroids/blob/main/net_dyn.png)
+
